@@ -5,7 +5,7 @@ I used to be a solo Youtuber for a number of years so I am technically savvy on 
 
 I have been modding games for years for my personal entertainment and pleasure, including but not limited to - Tale of Two Wastelands, with MO2, FNVEdit, a bit of GECK; Skyrim, Witcher 3, Mass Effect LE....and more.
 
-I’m currently developing some simple softwares for my company, hence I am looking to gain more experience in Python, SQL, Git/Github (or others that may come up in the future).
+I’m currently developing some simple softwares for my company, hence I am looking to gain more experience in Python, SQL, HTML/CSS/Javascript, Git/Github (or others that may come up in the future).
 
 <!---
 siuking666/siuking666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
